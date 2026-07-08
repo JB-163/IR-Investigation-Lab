@@ -1,8 +1,11 @@
 # Incident Response Investigation Report — Investigation 01
 
 **Date of Analysis:** June 2026
+
 **Exercise Source:** Malware-Traffic-Analysis.net — 2026-02-28
+
 **Exercise Title:** Easy As 123
+
 **PCAP File:** 2026-02-28-traffic-analysis-exercise.pcap
 
 ---
